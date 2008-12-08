@@ -10,7 +10,11 @@ README
 .. contents::   :depth: 4
 
 
-CPSTinyMCE is very straightforward integration of Tiny MCE 3.2.1.1 into CPS.
+.. _TinyMCE: http://tinymce.moxiecode.com/
+
+CPSTinyMCE is very straightforward integration of TinyMCE_ 3.2.1.1 into CPS.
+
+TinyMCE_ is distributed under the GNU Lesser General Public License (LGPL).
 
 
 .. Local Variables:
