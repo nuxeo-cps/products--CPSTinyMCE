@@ -6,7 +6,7 @@ New features
 -
 Bug fixes
 ~~~~~~~~~
--
+- #1160: Add support for TinyMCE, a Javascript HTML WYSIWYG editor
 New internal features
 ~~~~~~~~~~~~~~~~~~~~~
 - First package
