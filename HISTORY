@@ -1,0 +1,20 @@
+===========================================================
+Package: CPSTinyMCE 0.1.0
+===========================================================
+First release built by: gracinet at: 2009-12-15T12:28:39
+SVN Tag: https://svn.nuxeo.org/pub/CPS3/products/CPSTinyMCE/tags/0.1.0
+Build from: https://svn.nuxeo.org/pub/CPS3/products/CPSTinyMCE/trunk@54101
+
+Requires
+~~~~~~~~
+-
+New features
+~~~~~~~~~~~~
+-
+Bug fixes
+~~~~~~~~~
+- #1160: Add support for TinyMCE, a Javascript HTML WYSIWYG editor
+New internal features
+~~~~~~~~~~~~~~~~~~~~~
+- First package
+
