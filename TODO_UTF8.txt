@@ -1,0 +1,2 @@
+This product wasn't present at all in the previous unicode branch.
+It must therefore either be adapted or certified
