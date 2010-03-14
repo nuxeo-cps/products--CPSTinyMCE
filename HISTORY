@@ -1,4 +1,21 @@
 ===========================================================
+Package: CPSTinyMCE 0.1.1
+===========================================================
+First release built by: gracinet at: 2010-03-14T16:38:58
+Requires
+~~~~~~~~
+-
+New features
+~~~~~~~~~~~~
+-
+Bug fixes
+~~~~~~~~~
+- Switch to mercurial DCVS and hgbundler release manager
+New internal features
+~~~~~~~~~~~~~~~~~~~~~
+- 
+
+===========================================================
 Package: CPSTinyMCE 0.1.0
 ===========================================================
 First release built by: gracinet at: 2009-12-15T12:28:39
